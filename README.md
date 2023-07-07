@@ -1,3 +1,3 @@
-# crud-java
+# JDBC-CRUD-DAO-agenda
 
-Projeto desenvolvido em Java e banco de dados MySQL (JDBC), realizando o processo de CRUD seguindo o modelo de uma agenda, com a opção de criar contatos, visualizá-los, alterá-los e deletá-los. 
+O projeto consiste em um CRUD (Create, Read, Update, Delete) implementado com o uso do JDBC (Java Database Connectivity) e o padrão DAO (Data Access Object), que tem como objetivo criar uma agenda de contatos. Através dessa aplicação, os usuários têm a opção de criar novos contatos, visualizá-los, alterá-los e deletá-los. O JDBC é utilizado para estabelecer a conexão com o banco de dados, permitindo a realização das operações de persistência dos contatos. O padrão DAO é aplicado para encapsular as operações de acesso aos dados em uma camada separada, promovendo a modularidade e facilitando a manutenção do código. Assim, o projeto oferece uma solução completa para gerenciar uma agenda de contatos de forma eficiente e organizada.
